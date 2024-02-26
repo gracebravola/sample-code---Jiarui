@@ -8,6 +8,6 @@ The data used for this project is from two sources: Course given data from Tsing
 
 ## Authors and acknowledgement
 
-* **Billie Thompson** - *Sole author of the code* 
+* **Jiarui Fan** - *Sole author of the code* 
 
 Also many thanks to my team members who contributed to other parts of this project (construction of other factors, regularization etc.).
