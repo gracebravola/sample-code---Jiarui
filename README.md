@@ -1,4 +1,4 @@
-# Sample code for Jiarui's application to Pre-doctoral researcher
+# Sample code for Jiarui's application
 
 This is a project code for course 'Financial Risk Management' in Tsinghua university. In this project, I built a Barra-style model with application in Chinese stock market.
 
